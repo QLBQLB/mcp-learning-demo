@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+pydhon_cache/.
+# Editors
+vscode/
+.visual-studiocode/
+.idea
+.inkvape
+.dvrib.rpreplacement
+
+# OS".DS_Store
+# Windows
+Thumbs.db
+ech.dr
+autorun.log
+# MAC.DsStore
+
+# Linux
+*~
+*~
+
+.git/
+.namersvalue
+.mpnt
+.pyc generated
